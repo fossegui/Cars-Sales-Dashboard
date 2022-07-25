@@ -18,4 +18,4 @@ abordado pelo CEO durante a apresentação. O CEO está avaliando se continua ou
 venda de automóveis da marca Jaguar e ele gostaria de saber como evoluíram as vendas de 
 automóveis deste fabricante por ano e por estado.
 
-!(https://github.com/fossegui/Data-Analytic/blob/main/Cars%20Sales%20Dashboard.png)
+!(https://github.com/fossegui/Data-Analytic/blob/main/Cars%20Sales%20Dashboard.png?raw=true)
