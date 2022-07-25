@@ -1,7 +1,5 @@
 # Dashboard de Venda de Carros
 
-!(https://github.com/fossegui/Data-Analytic/blob/main/Cars%20Sales%20Dashboard.png)
-
 A XYZ Corporation International, uma revendedora de automóveis de luxo com sede em São Paulo. 
 A empresa começou sua operação no Brasil em 2016 e atua nos quatro estados da região sudeste, mais os estados do Paraná e Bahia.
 O gerente dela vai apresentar os resultados da equipe comercial para o novo CEO da empresa e precisa de um Dashboard que represente os dados de vendas 
@@ -19,3 +17,5 @@ e se as vendas estão acima ou abaixo da média. Seu gerente já sabe que um ass
 abordado pelo CEO durante a apresentação. O CEO está avaliando se continua ou não com a 
 venda de automóveis da marca Jaguar e ele gostaria de saber como evoluíram as vendas de 
 automóveis deste fabricante por ano e por estado.
+
+!(https://github.com/fossegui/Data-Analytic/blob/main/Cars%20Sales%20Dashboard.png)
