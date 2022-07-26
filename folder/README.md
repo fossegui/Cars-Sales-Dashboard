@@ -1,6 +1,4 @@
-![Cars Sales Dashboard](https://user-images.githubusercontent.com/98422036/180902647-47c779bf-ae82-4229-9260-8e8e1371614e.png)
-
-# Dashboard de Venda de Carros
+# Dashboard de Venda de Carros - Estudo de Caso.
 
 A XYZ Corporation International, uma revendedora de automóveis de luxo com sede em São Paulo. 
 A empresa começou sua operação no Brasil em 2016 e atua nos quatro estados da região sudeste, mais os estados do Paraná e Bahia.
@@ -19,4 +17,6 @@ e se as vendas estão acima ou abaixo da média. Seu gerente já sabe que um ass
 abordado pelo CEO durante a apresentação. O CEO está avaliando se continua ou não com a 
 venda de automóveis da marca Jaguar e ele gostaria de saber como evoluíram as vendas de 
 automóveis deste fabricante por ano e por estado.
+
+![Cars Sales Dashboard](https://user-images.githubusercontent.com/98422036/180902647-47c779bf-ae82-4229-9260-8e8e1371614e.png)
 
