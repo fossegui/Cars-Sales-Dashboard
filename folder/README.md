@@ -1,4 +1,4 @@
-# Dashboard de Venda de Carros - Estudo de Caso.
+# Dashboard de Venda de Carros - Estudo de Caso
 
 A XYZ Corporation International, uma revendedora de automóveis de luxo com sede em São Paulo. 
 A empresa começou sua operação no Brasil em 2016 e atua nos quatro estados da região sudeste, mais os estados do Paraná e Bahia.
