@@ -1,5 +1,6 @@
 # Relatório para Vendas
 
+Para acessar relatório dinâmico, acessar https://app.powerbi.com/groups/me/reports/f8268e3d-314b-43f7-a6f1-7c44ab28e748.
 Video: https://github.com/fossegui/Data-Analysis/assets/98422036/6f1cf8d1-3c33-46ac-8143-b6b73606aa32
 
 ![Captura de Tela (13)](https://github.com/fossegui/Data-Analysis/assets/98422036/b60539a3-4bd5-4c5e-9b04-ace8521743c6)
