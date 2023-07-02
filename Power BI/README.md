@@ -1,3 +1,4 @@
-# Power BI projects
+# Projetos Power BI 
 
-Here is the Power BI projects as study cases of problems based in real life, or using free data of real life problems.
+Aqui estão os projetos em Power BI baseados ou oriundos de problemas reais.
+
